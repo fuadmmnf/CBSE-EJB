@@ -9,7 +9,7 @@ Step 1: Ensure support for maven(java SDK 1.8), wildfly(v26.0.1.Final).
 
 Step 2: Install maven dependencies using intellij IDEA in root project, this is install the dependencies in the sub
 modules. In case of other IDE or terminal, user has to manually install dependencies for each sub module.
-
+ 
 Step 3: Configure wildfly and add the exploded version of the rest module (war-exploded).
 
 Step 4: Running the server the browser will show the results in the root url.
