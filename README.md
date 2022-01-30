@@ -13,7 +13,7 @@ modules. In case of other IDE or terminal, user has to manually install dependen
 Step 3: Configure wildfly and add the exploded version of the rest module (war-exploded).
 
 Step 4: Running the server the browser will show the results in the root url.
-
+ 
 # Demonstration of Reusability
 
 Authentication is a common feature for almost any software system. In modern times token based authentication is used.
